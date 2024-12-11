@@ -12,3 +12,5 @@ wheels/
 .DS_Store
 # Raw logged data files
 notebooks/biorxiv_data/
+# Pickled embeddings
+data/biorxiv_with_embeddings.pkl
