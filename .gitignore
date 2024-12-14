@@ -14,3 +14,4 @@ wheels/
 notebooks/biorxiv_data/
 # Pickled embeddings
 data/biorxiv_with_embeddings.pkl
+data/biorxiv_nomic.csv
