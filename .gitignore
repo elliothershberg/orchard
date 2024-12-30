@@ -16,3 +16,4 @@ notebooks/biorxiv_data/
 data/biorxiv_with_embeddings.pkl
 data/biorxiv_nomic.csv
 data/biorxiv_nomic_normalized.csv
+data/biorxiv_nomic_edited_topics.csv
